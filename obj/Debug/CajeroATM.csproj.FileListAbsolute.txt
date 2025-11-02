@@ -1,0 +1,22 @@
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\bin\Debug\CajeroATM.exe.config
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\bin\Debug\CajeroATM.exe
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\bin\Debug\CajeroATM.pdb
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.csproj.AssemblyReference.cache
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.Form1.resources
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.Properties.Resources.resources
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.csproj.GenerateResource.cache
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.csproj.CoreCompileInputs.cache
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.exe
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.pdb
+E:\UPN\2025 - II\CURSOS\ESTRUCTURA DE DATOS\S03\.net\CajeroATM\obj\Debug\CajeroATM.exe.config
+C:\Users\diego\Proyectos\net\CajeroATM\bin\Debug\CajeroATM.exe.config
+C:\Users\diego\Proyectos\net\CajeroATM\bin\Debug\CajeroATM.exe
+C:\Users\diego\Proyectos\net\CajeroATM\bin\Debug\CajeroATM.pdb
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.csproj.AssemblyReference.cache
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.exe.config
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.Form1.resources
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.Properties.Resources.resources
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.csproj.GenerateResource.cache
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.csproj.CoreCompileInputs.cache
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.exe
+C:\Users\diego\Proyectos\net\CajeroATM\obj\Debug\CajeroATM.pdb
